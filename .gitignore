@@ -1,0 +1,4 @@
+.venv/*
+test-images/*
+test-images-backup/*
+__pycache__/DuplicateRemover.cpython-311.pyc
